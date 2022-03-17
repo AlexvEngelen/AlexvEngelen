@@ -3,7 +3,7 @@
 
 - :seedling: &nbsp;I’m currently learning **<img src="https://skillicons.dev/icons?i=react,ts" />**
 - :speech_balloon: &nbsp;I like to talk about **Cybersecurity** and **Code**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on [**LinkedIn**](https://www.linkedin.com/in/alex-v-engelen "LinkedIn")
 
 <br>
 
@@ -16,6 +16,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,bootstrap,tailwind,cs,dotnet,php,laravel,wordpress,mysql,discord,docker,git,linux&perline=9" />
   </a>
 </p>
-
-<!-- links -->
-[linkedin]: www.linkedin.com/in/alex-v-engelen "Alex van Engelen LinkedIn"
