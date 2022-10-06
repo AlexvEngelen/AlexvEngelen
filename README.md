@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Alex van Engelen</h1>
 <h3 align="left">I am a student that loves to learn everything</h3>
 
-- :seedling: &nbsp;I’m currently learning **<img src="https://skillicons.dev/icons?i=php,laravel" />**
+- :seedling: &nbsp;I’m currently learning **<img src="https://skillicons.dev/icons?i=php,laravel,ts,vue" />**
 - :speech_balloon: &nbsp;I like to talk about **Cybersecurity** and **Code**
 - :computer: &nbsp;Connect with me on [**LinkedIn**](https://www.linkedin.com/in/alex-v-engelen "LinkedIn")
 
