@@ -1,5 +1,4 @@
 <h1 align="left" id="macropower-title">Hello there! I'm Alex van Engelen :wave:</h1>
-<h3 align="left">I am a software developer working @Topicus</h3>
 
 - :seedling: &nbsp;I’m currently busy with **<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres" />**
 - :computer: &nbsp;Connect with me on [**LinkedIn**](https://www.linkedin.com/in/alex-v-engelen "LinkedIn")
